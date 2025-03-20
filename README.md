@@ -1,1 +1,1 @@
-# CodSoft
+# CodSoft - Java Virtual Internship
