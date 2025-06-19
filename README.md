@@ -18,16 +18,19 @@ Each folder represents a unique project or task, designed to demonstrate practic
 
 ```
 CodSoft/
-├── Project1/
+├── CurrencyConvertor/
 │   └── ... (Java source files & documentation)
-├── Project2/
+├── GradeCalculator/
 │   └── ...
+├── NumberGame/
+│   └── ... (Java source files & documentation)
+├── SMS/
+│   └── ... (Java source files & documentation)
 ├── resources/
 │   └── ... (Reference materials)
 ├── README.md
 ```
 
-- **Project1, Project2, ...**: Individual folders for each assignment or project.
 - **resources/**: Supporting material, if any.
 
 *Check inside each project folder for specific instructions or details!*
