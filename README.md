@@ -26,8 +26,6 @@ CodSoft/
 │   └── ... (Java source files & documentation)
 ├── SMS/
 │   └── ... (Java source files & documentation)
-├── resources/
-│   └── ... (Reference materials)
 ├── README.md
 ```
 
